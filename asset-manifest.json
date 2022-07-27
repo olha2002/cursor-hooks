@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cursor-hooks/static/css/main.073c9b0a.css",
+    "main.js": "/cursor-hooks/static/js/main.9cfac033.js",
+    "static/js/787.f2e22480.chunk.js": "/cursor-hooks/static/js/787.f2e22480.chunk.js",
+    "index.html": "/cursor-hooks/index.html",
+    "main.073c9b0a.css.map": "/cursor-hooks/static/css/main.073c9b0a.css.map",
+    "main.9cfac033.js.map": "/cursor-hooks/static/js/main.9cfac033.js.map",
+    "787.f2e22480.chunk.js.map": "/cursor-hooks/static/js/787.f2e22480.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9cfac033.js"
+  ]
+}
