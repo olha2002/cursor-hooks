@@ -1,0 +1,43 @@
+.contacts-container {
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.contacts-menu {
+    font-size: 36px;
+    margin: 0;
+}
+
+#search-field {
+    border: 0;
+    font-size: 18px;
+    background-color: rgb(231, 228, 228);
+    color: gray;
+    border-radius: 10px;
+    padding: 5px;
+    width: 550px;
+}
+
+#search-field:focus {
+    outline: 0;
+}
+
+input[type="checkbox"] {
+    display: none;
+}
+
+.male-checkbox {
+    margin: 0 20px;
+    fill: dodgerblue;
+}
+
+.female-checkbox {
+    fill:deeppink;
+}
+
+.male-checkbox:active,
+.female-checkbox:active {
+    fill: black;
+}
