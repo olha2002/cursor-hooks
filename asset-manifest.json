@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/cursor-hooks/static/css/main.073c9b0a.css",
-    "main.js": "/cursor-hooks/static/js/main.9cfac033.js",
+    "main.css": "/cursor-hooks/static/css/main.5228a1be.css",
+    "main.js": "/cursor-hooks/static/js/main.1aa1d54e.js",
     "static/js/787.f2e22480.chunk.js": "/cursor-hooks/static/js/787.f2e22480.chunk.js",
+    "static/media/undefined.svg": "/cursor-hooks/static/media/undefined.dd67c480dff7c4b9bd32.svg",
+    "static/media/Анонімний.jpg": "/cursor-hooks/static/media/Анонімний.8add9eedcbe69c548c4b.jpg",
+    "static/media/female.svg": "/cursor-hooks/static/media/female.47ceea2a282a039e81c7.svg",
     "index.html": "/cursor-hooks/index.html",
-    "main.073c9b0a.css.map": "/cursor-hooks/static/css/main.073c9b0a.css.map",
-    "main.9cfac033.js.map": "/cursor-hooks/static/js/main.9cfac033.js.map",
+    "static/media/male.svg": "/cursor-hooks/static/media/male.c641af10a1b908ebae48.svg",
+    "main.5228a1be.css.map": "/cursor-hooks/static/css/main.5228a1be.css.map",
+    "main.1aa1d54e.js.map": "/cursor-hooks/static/js/main.1aa1d54e.js.map",
     "787.f2e22480.chunk.js.map": "/cursor-hooks/static/js/787.f2e22480.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.9cfac033.js"
+    "static/css/main.5228a1be.css",
+    "static/js/main.1aa1d54e.js"
   ]
 }
