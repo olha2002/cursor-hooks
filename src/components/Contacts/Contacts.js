@@ -16,17 +16,17 @@ const Contacts = () => {
 
   const handleMaleChangeCheck = () => {
     setMaleChecked(!maleChecked);
-    filteredContacts();
+    filteredContactsFunc();
   };
 
   const handleFemaleChangeCheck = () => {
     setFemaleChecked(!femaleChecked);
-    filteredContacts();
+    filteredContactsFunc();
   };
 
   const handleUndefinedChangeCheck = () => {
     setUndefinedChecked(!undefinedChecked);
-    filteredContacts();
+    filteredContactsFunc();
   };
 
   const filteredContacts = list
@@ -47,6 +47,8 @@ const Contacts = () => {
         return contact;
       }
     });
+
+    const filteredContactsFunc = () => filteredContacts;
 
   return (
     <div className="contacts-container">
